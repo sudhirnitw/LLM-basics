@@ -16,7 +16,7 @@ This notebook follows Andrej Karpathy's "Let's build GPT: from scratch, in code,
     * Residual connections and Layer Normalization.
     * Bigram-level and Transformer-level training loops.
 
-### 2. [Llama2_Architecture_Evolution](https://github.com/vRunB/LLM-basics/edit/main/README.md)
+### 2. [Llama2_Architecture_Evolution:Convert_GPT_2_llama2.ipynb](https://github.com/vRunB/LLM-basics/edit/main/README.md)
 This notebook evolves the architecture from the first notebook into a **Llama 2** style model. It swaps out standard components for the more efficient alternatives used by Meta in their flagship open-source model.
 * **Key Enhancements:**
     * **RoPE (Rotary Positional Embeddings):** Replaces absolute positional encodings with rotary embeddings to better capture relative positions and improve length extrapolation.
