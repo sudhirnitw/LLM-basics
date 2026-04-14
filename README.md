@@ -1,7 +1,3 @@
-Based on the notebooks you've described, here is a structured and professional elaboration for your **[README.md](https://github.com/vRunB/LLM-basics/edit/main/README.md)**. This layout transitions from a foundational GPT architecture to the modern refinements used in Llama 2.
-
----
-
 # LLM-basics
 
 A hands-on journey through the evolution of Large Language Models, starting from a foundational Transformer-based GPT and progressing toward modern production-grade architectures like Llama 2.
